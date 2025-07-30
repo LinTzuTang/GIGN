@@ -1,0 +1,18 @@
+{"time":"2024-10-04T13:38:26.661238104-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-04T13:38:26.666187069-04:00","level":"INFO","msg":"created symlink","path":"/blue/yanjun.li/tzutang.lin/GIGN/GIGN/wandb/run-20241004_133826-fibrvp8l/logs/debug-core.log"}
+{"time":"2024-10-04T13:38:26.66732872-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-04T13:38:26.684727936-04:00","level":"INFO","msg":"created new stream","id":"fibrvp8l"}
+{"time":"2024-10-04T13:38:26.684779774-04:00","level":"INFO","msg":"stream: started","id":"fibrvp8l"}
+{"time":"2024-10-04T13:38:26.684786938-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fibrvp8l"}}
+{"time":"2024-10-04T13:38:26.684842683-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"fibrvp8l"}}
+{"time":"2024-10-04T13:38:26.684819188-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"fibrvp8l"}}
+{"time":"2024-10-04T13:38:26.94875077-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-04T13:38:26.950120622-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-04T13:38:27.227466548-04:00","level":"INFO","msg":"stream: closing","id":"fibrvp8l"}
+{"time":"2024-10-04T13:38:27.227505192-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-04T13:38:27.2460737-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-04T13:38:28.684400113-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-04T13:38:28.812848056-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"fibrvp8l"}}
+{"time":"2024-10-04T13:38:28.812874446-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fibrvp8l"}}
+{"time":"2024-10-04T13:38:28.81293458-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"fibrvp8l"}}
+{"time":"2024-10-04T13:38:28.813142333-04:00","level":"INFO","msg":"stream: closed","id":"fibrvp8l"}

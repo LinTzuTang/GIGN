@@ -1,0 +1,8 @@
+2024-10-04 17:02:39 - INFO - /blue/yanjun.li/tzutang.lin/GIGN/GIGN/train_pdbbind.py
+2024-10-04 17:02:39 - INFO - train data: 81
+2024-10-04 17:02:39 - INFO - valid data: 10
+2024-10-04 17:02:46 - INFO - epoch-0, train_loss-37.2649, train_rmse-6.1045, valid_rmse-5.7475, valid_pr-0.5581
+2024-10-04 17:02:53 - INFO - epoch-1, train_loss-36.3775, train_rmse-6.0314, valid_rmse-5.7909, valid_pr-0.4679
+2024-10-04 17:03:00 - INFO - epoch-2, train_loss-36.1578, train_rmse-6.0131, valid_rmse-5.7053, valid_pr-0.4487
+2024-10-04 17:03:07 - INFO - epoch-3, train_loss-35.8389, train_rmse-5.9866, valid_rmse-5.6700, valid_pr-0.4266
+2024-10-04 17:03:13 - INFO - epoch-4, train_loss-35.6051, train_rmse-5.9670, valid_rmse-5.6180, valid_pr-0.4515

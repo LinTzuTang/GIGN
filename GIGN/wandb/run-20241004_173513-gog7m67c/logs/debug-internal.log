@@ -1,0 +1,19 @@
+{"time":"2024-10-04T17:35:13.429480613-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-04T17:35:13.441073371-04:00","level":"INFO","msg":"created symlink","path":"/blue/yanjun.li/tzutang.lin/GIGN/GIGN/wandb/run-20241004_173513-gog7m67c/logs/debug-core.log"}
+{"time":"2024-10-04T17:35:13.442269595-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-04T17:35:13.451922712-04:00","level":"INFO","msg":"created new stream","id":"gog7m67c"}
+{"time":"2024-10-04T17:35:13.451973909-04:00","level":"INFO","msg":"stream: started","id":"gog7m67c"}
+{"time":"2024-10-04T17:35:13.45201158-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"gog7m67c"}}
+{"time":"2024-10-04T17:35:13.451987865-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gog7m67c"}}
+{"time":"2024-10-04T17:35:13.452025397-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"gog7m67c"}}
+{"time":"2024-10-04T17:35:13.602198764-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-04T17:35:13.603774195-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-04T17:36:09.798897438-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-04T17:36:09.815851501-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-04T17:36:10.200286605-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-04T17:36:11.324503639-04:00","level":"INFO","msg":"stream: closing","id":"gog7m67c"}
+{"time":"2024-10-04T17:36:11.324554164-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"gog7m67c"}}
+{"time":"2024-10-04T17:36:11.324575395-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"gog7m67c"}}
+{"time":"2024-10-04T17:36:11.324679982-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"gog7m67c"}}
+{"time":"2024-10-04T17:36:11.324776996-04:00","level":"INFO","msg":"stream: closed","id":"gog7m67c"}
+{"time":"2024-10-04T17:36:14.80219674-04:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

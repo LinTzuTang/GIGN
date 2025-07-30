@@ -1,0 +1,9 @@
+2024-10-04 17:36:42 - INFO - /blue/yanjun.li/tzutang.lin/GIGN/GIGN/train_pdbbind.py
+2024-10-04 17:36:42 - INFO - train data: 81
+2024-10-04 17:36:42 - INFO - valid data: 10
+2024-10-04 17:36:49 - INFO - epoch-0, train_loss-37.1651, train_rmse-6.0963, valid_rmse-5.7894, valid_pr-0.3774
+2024-10-04 17:36:55 - INFO - epoch-1, train_loss-35.8702, train_rmse-5.9892, valid_rmse-5.6234, valid_pr-0.4009
+2024-10-04 17:37:02 - INFO - epoch-2, train_loss-35.4101, train_rmse-5.9506, valid_rmse-5.5166, valid_pr-0.4484
+2024-10-04 17:37:08 - INFO - epoch-3, train_loss-35.6949, train_rmse-5.9745, valid_rmse-5.4242, valid_pr-0.4650
+2024-10-04 17:37:14 - INFO - epoch-4, train_loss-35.4246, train_rmse-5.9519, valid_rmse-5.3574, valid_pr-0.4809
+2024-10-04 17:37:14 - INFO - Training finished and last epoch model saved for repeat 2.

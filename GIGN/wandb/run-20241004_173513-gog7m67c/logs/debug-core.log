@@ -1,0 +1,24 @@
+{"time":"2024-10-04T17:35:13.053209749-04:00","level":"INFO","msg":"started logging, with flags","port-filename":"/scratch/local/46275027/tmp6um2d76t/port-3692328.txt","pid":3692328,"debug":false,"disable-analytics":false}
+{"time":"2024-10-04T17:35:13.053247961-04:00","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-10-04T17:35:13.054023008-04:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":3692328}
+{"time":"2024-10-04T17:35:13.054023429-04:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":39455,"Zone":""}}
+{"time":"2024-10-04T17:35:13.244600596-04:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:35:13.428271695-04:00","level":"INFO","msg":"handleInformInit: received","streamId":"gog7m67c","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:35:13.451983617-04:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"gog7m67c","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:36:11.324332044-04:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"gog7m67c","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:36:11.324788618-04:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"gog7m67c","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:36:11.510542147-04:00","level":"INFO","msg":"handleInformInit: received","streamId":"qp99isng","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:36:11.547483565-04:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"qp99isng","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:36:42.06112825-04:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"qp99isng","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:36:42.062431195-04:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"qp99isng","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:36:42.134976811-04:00","level":"INFO","msg":"handleInformInit: received","streamId":"mf56j1n0","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:36:42.143701671-04:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"mf56j1n0","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:37:16.624640756-04:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"mf56j1n0","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:37:16.625108221-04:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"mf56j1n0","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:37:16.672697518-04:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:37:16.672708078-04:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:37:16.672729238-04:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2024-10-04T17:37:16.672712106-04:00","level":"INFO","msg":"connection: Close: initiating connection closure","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:37:16.672759606-04:00","level":"INFO","msg":"connection: Close: connection successfully closed","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:37:16.672790104-04:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:33812"}
+{"time":"2024-10-04T17:37:16.672795013-04:00","level":"INFO","msg":"server is closed"}

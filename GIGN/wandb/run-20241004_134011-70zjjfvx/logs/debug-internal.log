@@ -1,0 +1,20 @@
+{"time":"2024-10-04T13:40:11.27267694-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-04T13:40:11.282902131-04:00","level":"INFO","msg":"created symlink","path":"/blue/yanjun.li/tzutang.lin/GIGN/GIGN/wandb/run-20241004_134011-70zjjfvx/logs/debug-core.log"}
+{"time":"2024-10-04T13:40:11.284040585-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-04T13:40:11.293046298-04:00","level":"INFO","msg":"created new stream","id":"70zjjfvx"}
+{"time":"2024-10-04T13:40:11.293105961-04:00","level":"INFO","msg":"stream: started","id":"70zjjfvx"}
+{"time":"2024-10-04T13:40:11.293112513-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"70zjjfvx"}}
+{"time":"2024-10-04T13:40:11.29314254-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"70zjjfvx"}}
+{"time":"2024-10-04T13:40:11.293160685-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"70zjjfvx"}}
+{"time":"2024-10-04T13:40:11.475419752-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-04T13:40:11.477272869-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-04T13:40:11.748034945-04:00","level":"INFO","msg":"stream: closing","id":"70zjjfvx"}
+{"time":"2024-10-04T13:40:11.748128473-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-04T13:40:11.764982939-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-04T13:40:16.751496404-04:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2024-10-04T13:40:41.998378726-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-10-04T13:40:44.334493037-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-04T13:40:44.708422744-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"70zjjfvx"}}
+{"time":"2024-10-04T13:40:44.708537051-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"70zjjfvx"}}
+{"time":"2024-10-04T13:40:44.708528624-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"70zjjfvx"}}
+{"time":"2024-10-04T13:40:44.708830566-04:00","level":"INFO","msg":"stream: closed","id":"70zjjfvx"}

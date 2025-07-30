@@ -1,0 +1,19 @@
+{"time":"2024-10-04T17:36:11.512317256-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-04T17:36:11.538173336-04:00","level":"INFO","msg":"created symlink","path":"/blue/yanjun.li/tzutang.lin/GIGN/GIGN/wandb/run-20241004_173611-qp99isng/logs/debug-core.log"}
+{"time":"2024-10-04T17:36:11.538491849-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-04T17:36:11.547386431-04:00","level":"INFO","msg":"created new stream","id":"qp99isng"}
+{"time":"2024-10-04T17:36:11.547474037-04:00","level":"INFO","msg":"stream: started","id":"qp99isng"}
+{"time":"2024-10-04T17:36:11.547508071-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"qp99isng"}}
+{"time":"2024-10-04T17:36:11.547538379-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qp99isng"}}
+{"time":"2024-10-04T17:36:11.547591369-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"qp99isng"}}
+{"time":"2024-10-04T17:36:11.770835345-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-04T17:36:11.77163075-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-04T17:36:40.532913963-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-04T17:36:40.552415688-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-04T17:36:40.942240582-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-04T17:36:42.061307279-04:00","level":"INFO","msg":"stream: closing","id":"qp99isng"}
+{"time":"2024-10-04T17:36:42.062154712-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"qp99isng"}}
+{"time":"2024-10-04T17:36:42.062199627-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qp99isng"}}
+{"time":"2024-10-04T17:36:42.062219826-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"qp99isng"}}
+{"time":"2024-10-04T17:36:42.062417449-04:00","level":"INFO","msg":"stream: closed","id":"qp99isng"}
+{"time":"2024-10-04T17:36:45.535743958-04:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

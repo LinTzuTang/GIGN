@@ -1,0 +1,24 @@
+./pdbbind_rna_model_retrain/20241002_134647_GIGN_repeat0/log/train
+2024-10-02 13:46:47 - INFO - train_pdbbind.py
+2024-10-02 13:46:47 - INFO - train data: 81
+2024-10-02 13:46:47 - INFO - valid data: 10
+Traceback (most recent call last):
+  File "train_pdbbind.py", line 94, in <module>
+    pred = model(data)
+  File "/blue/yanjun.li/tzutang.lin/.conda/envs/gign/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/blue/yanjun.li/tzutang.lin/GIGN/GIGN/GIGN.py", line 23, in forward
+    x = self.lin_node(x)
+  File "/blue/yanjun.li/tzutang.lin/.conda/envs/gign/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/blue/yanjun.li/tzutang.lin/.conda/envs/gign/lib/python3.8/site-packages/torch/nn/modules/container.py", line 141, in forward
+    input = module(input)
+  File "/blue/yanjun.li/tzutang.lin/.conda/envs/gign/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/blue/yanjun.li/tzutang.lin/.conda/envs/gign/lib/python3.8/site-packages/torch/nn/modules/linear.py", line 103, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "/blue/yanjun.li/tzutang.lin/.conda/envs/gign/lib/python3.8/site-packages/torch/nn/functional.py", line 1848, in linear
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA error: no kernel image is available for execution on the device
+CUDA kernel errors might be asynchronously reported at some other API call,so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.

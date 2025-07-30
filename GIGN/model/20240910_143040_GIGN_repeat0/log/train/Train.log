@@ -1,0 +1,34 @@
+2024-09-10 14:30:40 - INFO - train_example.py
+2024-09-10 14:30:40 - INFO - train data: 45
+2024-09-10 14:30:40 - INFO - valid data: 5
+2024-09-10 14:31:38 - INFO - epoch-0, train_loss-46.3414, train_rmse-6.8075, valid_rmse-5.9363, valid_pr--0.3225
+2024-09-10 14:31:41 - INFO - epoch-1, train_loss-43.9324, train_rmse-6.6282, valid_rmse-5.9073, valid_pr--0.2365
+2024-09-10 14:31:43 - INFO - epoch-2, train_loss-43.6310, train_rmse-6.6054, valid_rmse-5.8079, valid_pr-0.2088
+2024-09-10 14:31:45 - INFO - epoch-3, train_loss-43.0163, train_rmse-6.5587, valid_rmse-5.7201, valid_pr-0.2246
+2024-09-10 14:31:47 - INFO - epoch-4, train_loss-42.4405, train_rmse-6.5146, valid_rmse-5.6821, valid_pr-0.2656
+2024-09-10 14:31:49 - INFO - epoch-5, train_loss-42.0638, train_rmse-6.4857, valid_rmse-5.6354, valid_pr-0.2884
+2024-09-10 14:31:51 - INFO - epoch-6, train_loss-41.9185, train_rmse-6.4745, valid_rmse-5.5553, valid_pr-0.3302
+2024-09-10 14:31:53 - INFO - epoch-7, train_loss-41.5710, train_rmse-6.4476, valid_rmse-5.4244, valid_pr-0.3375
+2024-09-10 14:31:55 - INFO - epoch-8, train_loss-41.4471, train_rmse-6.4379, valid_rmse-5.2660, valid_pr-0.3398
+2024-09-10 14:31:57 - INFO - epoch-9, train_loss-41.3667, train_rmse-6.4317, valid_rmse-5.0470, valid_pr-0.3332
+2024-09-10 14:31:59 - INFO - epoch-10, train_loss-41.2555, train_rmse-6.4230, valid_rmse-4.8550, valid_pr-0.3135
+2024-09-10 14:32:01 - INFO - epoch-11, train_loss-41.1718, train_rmse-6.4165, valid_rmse-4.6716, valid_pr-0.3182
+2024-09-10 14:32:03 - INFO - epoch-12, train_loss-41.0118, train_rmse-6.4040, valid_rmse-4.4888, valid_pr-0.3251
+2024-09-10 14:32:05 - INFO - epoch-13, train_loss-40.9288, train_rmse-6.3976, valid_rmse-4.3101, valid_pr-0.3310
+2024-09-10 14:32:07 - INFO - epoch-14, train_loss-40.9894, train_rmse-6.4023, valid_rmse-4.2153, valid_pr-0.3323
+2024-09-10 14:32:09 - INFO - epoch-15, train_loss-40.8713, train_rmse-6.3931, valid_rmse-4.1845, valid_pr-0.3393
+2024-09-10 14:32:12 - INFO - epoch-16, train_loss-40.7832, train_rmse-6.3862, valid_rmse-4.1125, valid_pr-0.3333
+2024-09-10 14:32:14 - INFO - epoch-17, train_loss-40.5772, train_rmse-6.3700, valid_rmse-3.9814, valid_pr-0.3340
+2024-09-10 14:32:16 - INFO - epoch-18, train_loss-40.7075, train_rmse-6.3802, valid_rmse-3.8344, valid_pr-0.3317
+2024-09-10 14:32:18 - INFO - epoch-19, train_loss-40.6258, train_rmse-6.3738, valid_rmse-3.6862, valid_pr-0.3327
+2024-09-10 14:32:20 - INFO - epoch-20, train_loss-40.3856, train_rmse-6.3550, valid_rmse-3.6351, valid_pr-0.3384
+2024-09-10 14:32:22 - INFO - epoch-21, train_loss-40.4162, train_rmse-6.3574, valid_rmse-3.5906, valid_pr-0.3373
+2024-09-10 14:32:24 - INFO - epoch-22, train_loss-40.2537, train_rmse-6.3446, valid_rmse-3.5297, valid_pr-0.3305
+2024-09-10 14:32:27 - INFO - epoch-23, train_loss-40.4190, train_rmse-6.3576, valid_rmse-3.5597, valid_pr-0.3138
+2024-09-10 14:32:29 - INFO - epoch-24, train_loss-40.1989, train_rmse-6.3403, valid_rmse-3.6682, valid_pr-0.2991
+2024-09-10 14:32:31 - INFO - epoch-25, train_loss-40.1053, train_rmse-6.3329, valid_rmse-3.8229, valid_pr-0.2826
+2024-09-10 14:32:33 - INFO - epoch-26, train_loss-40.0620, train_rmse-6.3295, valid_rmse-3.9566, valid_pr-0.2720
+2024-09-10 14:32:35 - INFO - epoch-27, train_loss-39.8697, train_rmse-6.3142, valid_rmse-4.0391, valid_pr-0.2493
+2024-09-10 14:32:37 - INFO - epoch-28, train_loss-39.9207, train_rmse-6.3183, valid_rmse-4.0252, valid_pr-0.2207
+2024-09-10 14:32:39 - INFO - epoch-29, train_loss-39.7994, train_rmse-6.3087, valid_rmse-3.9961, valid_pr-0.2052
+2024-09-10 14:32:41 - INFO - epoch-30, train_loss-39.7534, train_rmse-6.3050, valid_rmse-3.8706, valid_pr-0.2053

@@ -1,0 +1,24 @@
+{"time":"2024-10-10T08:42:20.922691754-04:00","level":"INFO","msg":"started logging, with flags","port-filename":"/scratch/local/46876678/tmp035hnsp8/port-3907386.txt","pid":3907386,"debug":false,"disable-analytics":false}
+{"time":"2024-10-10T08:42:20.92276856-04:00","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-10-10T08:42:20.925221003-04:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":36687,"Zone":""}}
+{"time":"2024-10-10T08:42:20.925469017-04:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":3907386}
+{"time":"2024-10-10T08:42:21.110181012-04:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T08:42:21.457245981-04:00","level":"INFO","msg":"handleInformInit: received","streamId":"scii9imb","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T08:42:21.666820384-04:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"scii9imb","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T08:48:37.619338875-04:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"scii9imb","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T08:48:37.619826053-04:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"scii9imb","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T08:48:37.745945983-04:00","level":"INFO","msg":"handleInformInit: received","streamId":"lai2ju2e","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T08:48:37.769442163-04:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"lai2ju2e","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T08:54:12.992330576-04:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"lai2ju2e","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T08:54:12.992780585-04:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"lai2ju2e","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T08:54:13.07046632-04:00","level":"INFO","msg":"handleInformInit: received","streamId":"w28ap2cj","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T08:54:13.099113163-04:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"w28ap2cj","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T09:00:01.953224574-04:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"w28ap2cj","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T09:00:01.953691864-04:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"w28ap2cj","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T09:00:03.955695054-04:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T09:00:03.955711794-04:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T09:00:03.955746031-04:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2024-10-10T09:00:03.955768969-04:00","level":"INFO","msg":"connection: Close: initiating connection closure","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T09:00:03.955795256-04:00","level":"INFO","msg":"connection: Close: connection successfully closed","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T09:00:03.955798025-04:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:50498"}
+{"time":"2024-10-10T09:00:03.955801793-04:00","level":"INFO","msg":"server is closed"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-02T13:57:25.851276525-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-02T13:57:25.853188151-04:00","level":"INFO","msg":"created symlink","path":"/blue/yanjun.li/tzutang.lin/GIGN/GIGN/wandb/run-20241002_135725-bubblmzx/logs/debug-core.log"}
+{"time":"2024-10-02T13:57:25.854932691-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-02T13:57:25.946769734-04:00","level":"INFO","msg":"created new stream","id":"bubblmzx"}
+{"time":"2024-10-02T13:57:25.946813888-04:00","level":"INFO","msg":"stream: started","id":"bubblmzx"}
+{"time":"2024-10-02T13:57:25.946874112-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"bubblmzx"}}
+{"time":"2024-10-02T13:57:25.947022542-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"bubblmzx"}}
+{"time":"2024-10-02T13:57:25.947286261-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"bubblmzx"}}
+{"time":"2024-10-02T13:57:26.164716829-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-02T13:57:26.165968517-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-02T13:58:02.785740006-04:00","level":"INFO","msg":"stream: closing","id":"bubblmzx"}
+{"time":"2024-10-02T13:58:02.785830577-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-02T13:58:02.81339861-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-02T13:58:03.302575984-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-02T13:58:03.420503049-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"bubblmzx"}}
+{"time":"2024-10-02T13:58:03.420538156-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"bubblmzx"}}
+{"time":"2024-10-02T13:58:03.420684302-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"bubblmzx"}}
+{"time":"2024-10-02T13:58:03.420777308-04:00","level":"INFO","msg":"stream: closed","id":"bubblmzx"}

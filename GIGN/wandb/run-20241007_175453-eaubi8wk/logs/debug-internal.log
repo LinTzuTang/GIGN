@@ -1,0 +1,19 @@
+{"time":"2024-10-07T17:54:53.979012818-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-07T17:54:53.98916022-04:00","level":"INFO","msg":"created symlink","path":"/blue/yanjun.li/tzutang.lin/GIGN/GIGN/wandb/run-20241007_175453-eaubi8wk/logs/debug-core.log"}
+{"time":"2024-10-07T17:54:53.989552042-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-07T17:54:54.137229228-04:00","level":"INFO","msg":"created new stream","id":"eaubi8wk"}
+{"time":"2024-10-07T17:54:54.13727785-04:00","level":"INFO","msg":"stream: started","id":"eaubi8wk"}
+{"time":"2024-10-07T17:54:54.137310111-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"eaubi8wk"}}
+{"time":"2024-10-07T17:54:54.137338524-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"eaubi8wk"}}
+{"time":"2024-10-07T17:54:54.13746266-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"eaubi8wk"}}
+{"time":"2024-10-07T17:54:54.312840006-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-07T17:54:54.314217766-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-07T18:52:25.079235114-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-07T18:52:25.302516616-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-07T18:52:25.718110606-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-07T18:52:27.238972953-04:00","level":"INFO","msg":"stream: closing","id":"eaubi8wk"}
+{"time":"2024-10-07T18:52:27.239011435-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"eaubi8wk"}}
+{"time":"2024-10-07T18:52:27.239308778-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"eaubi8wk"}}
+{"time":"2024-10-07T18:52:27.239500171-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"eaubi8wk"}}
+{"time":"2024-10-07T18:52:27.239877095-04:00","level":"INFO","msg":"stream: closed","id":"eaubi8wk"}
+{"time":"2024-10-07T18:52:30.284487245-04:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

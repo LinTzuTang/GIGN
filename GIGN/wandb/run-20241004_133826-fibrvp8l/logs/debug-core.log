@@ -1,0 +1,15 @@
+{"time":"2024-10-04T13:38:25.242307355-04:00","level":"INFO","msg":"started logging, with flags","port-filename":"/scratch/local/46275027/tmpuwxx58uk/port-2284285.txt","pid":2284285,"debug":false,"disable-analytics":false}
+{"time":"2024-10-04T13:38:25.242341821-04:00","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2024-10-04T13:38:25.24296522-04:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":2284285}
+{"time":"2024-10-04T13:38:25.24296501-04:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":45793,"Zone":""}}
+{"time":"2024-10-04T13:38:25.431795411-04:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:39248"}
+{"time":"2024-10-04T13:38:26.659827385-04:00","level":"INFO","msg":"handleInformInit: received","streamId":"fibrvp8l","id":"127.0.0.1:39248"}
+{"time":"2024-10-04T13:38:26.684789242-04:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"fibrvp8l","id":"127.0.0.1:39248"}
+{"time":"2024-10-04T13:38:27.227418497-04:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:39248"}
+{"time":"2024-10-04T13:38:27.227602396-04:00","level":"INFO","msg":"connection: Close: initiating connection closure","id":"127.0.0.1:39248"}
+{"time":"2024-10-04T13:38:27.228818687-04:00","level":"INFO","msg":"connection: Close: connection successfully closed","id":"127.0.0.1:39248"}
+{"time":"2024-10-04T13:38:27.228826963-04:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2024-10-04T13:38:27.359375782-04:00","level":"ERROR","msg":"processOutgoingData: flush error","error":"write tcp 127.0.0.1:45793->127.0.0.1:39248: use of closed network connection","id":"127.0.0.1:39248"}
+{"time":"2024-10-04T13:38:28.813394571-04:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:39248"}
+{"time":"2024-10-04T13:38:28.813415009-04:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:39248"}
+{"time":"2024-10-04T13:38:28.813422844-04:00","level":"INFO","msg":"server is closed"}

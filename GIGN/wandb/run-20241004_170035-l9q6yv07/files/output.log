@@ -1,0 +1,33 @@
+./pdbbind_rna_model_retrain/20241004_170036_GIGN_repeat0/log/train
+2024-10-04 17:00:36 - INFO - /blue/yanjun.li/tzutang.lin/GIGN/GIGN/train_pdbbind.py
+2024-10-04 17:00:36 - INFO - train data: 81
+2024-10-04 17:00:36 - INFO - valid data: 10
+2024-10-04 17:01:44 - INFO - epoch-0, train_loss-37.1072, train_rmse-6.0916, valid_rmse-5.8522, valid_pr--0.3960
+model has been saved to ./pdbbind_rna_model_retrain/20241004_170036_GIGN_repeat0/model/epoch-0, train_loss-37.1072, train_rmse-6.0916, valid_rmse-5.8522, valid_pr--0.3960.pt.
+2024-10-04 17:01:52 - INFO - epoch-1, train_loss-35.2420, train_rmse-5.9365, valid_rmse-6.0014, valid_pr--0.4934
+2024-10-04 17:01:58 - INFO - epoch-2, train_loss-35.0958, train_rmse-5.9242, valid_rmse-6.0411, valid_pr--0.4691
+2024-10-04 17:02:05 - INFO - epoch-3, train_loss-34.9546, train_rmse-5.9122, valid_rmse-5.9851, valid_pr--0.4971
+2024-10-04 17:02:11 - INFO - epoch-4, train_loss-34.8346, train_rmse-5.9021, valid_rmse-5.9118, valid_pr--0.5403
+./pdbbind_rna_model_retrain/20241004_170211_GIGN_repeat1/log/train
+2024-10-04 17:02:11 - INFO - /blue/yanjun.li/tzutang.lin/GIGN/GIGN/train_pdbbind.py
+2024-10-04 17:02:11 - INFO - train data: 81
+2024-10-04 17:02:11 - INFO - valid data: 10
+2024-10-04 17:02:16 - INFO - epoch-0, train_loss-37.9599, train_rmse-6.1612, valid_rmse-5.8280, valid_pr-0.3639
+model has been saved to ./pdbbind_rna_model_retrain/20241004_170211_GIGN_repeat1/model/epoch-0, train_loss-37.9599, train_rmse-6.1612, valid_rmse-5.8280, valid_pr-0.3639.pt.
+2024-10-04 17:02:22 - INFO - epoch-1, train_loss-36.1829, train_rmse-6.0152, valid_rmse-5.9141, valid_pr--0.3737
+2024-10-04 17:02:27 - INFO - epoch-2, train_loss-36.1476, train_rmse-6.0123, valid_rmse-5.9549, valid_pr--0.3710
+2024-10-04 17:02:33 - INFO - epoch-3, train_loss-35.8545, train_rmse-5.9879, valid_rmse-5.9924, valid_pr--0.3439
+2024-10-04 17:02:39 - INFO - epoch-4, train_loss-35.7151, train_rmse-5.9762, valid_rmse-6.0462, valid_pr--0.3635
+./pdbbind_rna_model_retrain/20241004_170239_GIGN_repeat2/log/train
+2024-10-04 17:02:39 - INFO - /blue/yanjun.li/tzutang.lin/GIGN/GIGN/train_pdbbind.py
+2024-10-04 17:02:39 - INFO - train data: 81
+2024-10-04 17:02:39 - INFO - valid data: 10
+2024-10-04 17:02:46 - INFO - epoch-0, train_loss-37.2649, train_rmse-6.1045, valid_rmse-5.7475, valid_pr-0.5581
+model has been saved to ./pdbbind_rna_model_retrain/20241004_170239_GIGN_repeat2/model/epoch-0, train_loss-37.2649, train_rmse-6.1045, valid_rmse-5.7475, valid_pr-0.5581.pt.
+2024-10-04 17:02:53 - INFO - epoch-1, train_loss-36.3775, train_rmse-6.0314, valid_rmse-5.7909, valid_pr-0.4679
+2024-10-04 17:03:00 - INFO - epoch-2, train_loss-36.1578, train_rmse-6.0131, valid_rmse-5.7053, valid_pr-0.4487
+model has been saved to ./pdbbind_rna_model_retrain/20241004_170239_GIGN_repeat2/model/epoch-2, train_loss-36.1578, train_rmse-6.0131, valid_rmse-5.7053, valid_pr-0.4487.pt.
+2024-10-04 17:03:07 - INFO - epoch-3, train_loss-35.8389, train_rmse-5.9866, valid_rmse-5.6700, valid_pr-0.4266
+model has been saved to ./pdbbind_rna_model_retrain/20241004_170239_GIGN_repeat2/model/epoch-3, train_loss-35.8389, train_rmse-5.9866, valid_rmse-5.6700, valid_pr-0.4266.pt.
+2024-10-04 17:03:13 - INFO - epoch-4, train_loss-35.6051, train_rmse-5.9670, valid_rmse-5.6180, valid_pr-0.4515
+model has been saved to ./pdbbind_rna_model_retrain/20241004_170239_GIGN_repeat2/model/epoch-4, train_loss-35.6051, train_rmse-5.9670, valid_rmse-5.6180, valid_pr-0.4515.pt.

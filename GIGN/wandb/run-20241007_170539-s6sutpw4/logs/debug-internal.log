@@ -1,0 +1,19 @@
+{"time":"2024-10-07T17:05:39.44570388-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-07T17:05:39.454917633-04:00","level":"INFO","msg":"created symlink","path":"/blue/yanjun.li/tzutang.lin/GIGN/GIGN/wandb/run-20241007_170539-s6sutpw4/logs/debug-core.log"}
+{"time":"2024-10-07T17:05:39.456901721-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-07T17:05:39.575612502-04:00","level":"INFO","msg":"created new stream","id":"s6sutpw4"}
+{"time":"2024-10-07T17:05:39.575666014-04:00","level":"INFO","msg":"stream: started","id":"s6sutpw4"}
+{"time":"2024-10-07T17:05:39.575718884-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"s6sutpw4"}}
+{"time":"2024-10-07T17:05:39.575805869-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"s6sutpw4"}}
+{"time":"2024-10-07T17:05:39.575949631-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"s6sutpw4"}}
+{"time":"2024-10-07T17:05:39.871772307-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-07T17:05:39.873827099-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-07T17:54:51.325959596-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-07T17:54:51.419637985-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-07T17:54:51.863286661-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-07T17:54:53.305508211-04:00","level":"INFO","msg":"stream: closing","id":"s6sutpw4"}
+{"time":"2024-10-07T17:54:53.305572873-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"s6sutpw4"}}
+{"time":"2024-10-07T17:54:53.305594163-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"s6sutpw4"}}
+{"time":"2024-10-07T17:54:53.305785255-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"s6sutpw4"}}
+{"time":"2024-10-07T17:54:53.305828647-04:00","level":"INFO","msg":"stream: closed","id":"s6sutpw4"}
+{"time":"2024-10-07T17:54:56.402674559-04:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

@@ -1,0 +1,18 @@
+{"time":"2024-10-04T17:36:42.136231595-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-04T17:36:42.136465498-04:00","level":"INFO","msg":"created symlink","path":"/blue/yanjun.li/tzutang.lin/GIGN/GIGN/wandb/run-20241004_173642-mf56j1n0/logs/debug-core.log"}
+{"time":"2024-10-04T17:36:42.136727574-04:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-04T17:36:42.143630837-04:00","level":"INFO","msg":"created new stream","id":"mf56j1n0"}
+{"time":"2024-10-04T17:36:42.143691732-04:00","level":"INFO","msg":"stream: started","id":"mf56j1n0"}
+{"time":"2024-10-04T17:36:42.143697173-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mf56j1n0"}}
+{"time":"2024-10-04T17:36:42.14374309-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"mf56j1n0"}}
+{"time":"2024-10-04T17:36:42.143730626-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mf56j1n0"}}
+{"time":"2024-10-04T17:36:42.369971704-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-04T17:36:42.370805893-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-04T17:37:14.851903698-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-04T17:37:14.874407334-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-04T17:37:15.514779821-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-04T17:37:16.624807932-04:00","level":"INFO","msg":"stream: closing","id":"mf56j1n0"}
+{"time":"2024-10-04T17:37:16.624856144-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"mf56j1n0"}}
+{"time":"2024-10-04T17:37:16.624878766-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mf56j1n0"}}
+{"time":"2024-10-04T17:37:16.625068105-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"mf56j1n0"}}
+{"time":"2024-10-04T17:37:16.625099244-04:00","level":"INFO","msg":"stream: closed","id":"mf56j1n0"}
